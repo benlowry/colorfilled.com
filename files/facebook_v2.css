@@ -1,0 +1,30 @@
+.block { margin-bottom: 12px; }
+.blockmenu { margin-bottom: 12px; height: 20px; }
+.blockadd { margin-bottom: 12px; height: 32px; }
+
+.share { height: 32px; margin-top: 4px; }
+.share li { display: block; float: left; margin-right: 4px; height: 32px; }
+.share a { display: block; height: 32px; line-height: 32px; }
+.submit { display: block; width: 100px; text-align: center; margin-top: 4px; border-style: solid; border-color: #d9dfea #0e1f5b #0e1f5b #d9dfea; border-width: 1px; padding: 4px; background: #3b5998 none repeat scroll 0% 0%; color: #FFF; cursor: pointer; font-size: 12px; font-weight: bold; float: left; margin-right: 12px; }
+.submit1 { width: 100px; }
+.submit2 { width: 200px; }
+.submit * { color: #FFF; }
+
+.scores { width: 100%; border-collapse: collapse; }
+.scores a { font-weight: bold; font-size: 14px; display: block; }
+.scores span { display: block; margin-top: 4px; font-size: 10px; color: #666; }
+.scores th { padding: 4px; background-color: #EEE; font-weight: bold; color: #333; text-align: left; }
+.scores td { padding: 4px; border-bottom: 1px solid #CCC; }
+.scores th.score { width: 120px; }
+.scores td.score { font-size: 18px; font-weight: bold; }
+.scores a.invite { margin: 4px 0px; }
+
+.modename { float: left; }
+.button { display: block; float: right; margin-right: 4px; color: #666; text-decoration: underline; height: 18px; line-height: 18px; border: 1px solid #FFF; padding: 0px 4px; }
+.button:hover { border: 1px solid #CCC; }
+.button_on { border: 1px solid #666; color: #FFF; background-color: #666; text-decoration: none; }
+.button_on:hover { border: 1px solid #666; }
+
+.fbapps { height: 39px; margin-top: 4px; }
+.fbapps li { display: block; float: left; margin-right: 6px; height: 39px; }
+.fbapps li a { display: block; height: 39px; line-height: 39px; }
